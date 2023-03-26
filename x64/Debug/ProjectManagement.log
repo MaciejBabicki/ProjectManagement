@@ -1,0 +1,3 @@
+﻿  ProjectManagement.cpp
+C:\Users\Maciek\source\repos\C++\ProjectManagement\ProjectManagement.cpp(43,6): warning C4101: "members": lokalna zmienna, do której nie istnieje odwołanie
+  ProjectManagement.vcxproj -> C:\Users\Maciek\source\repos\C++\ProjectManagement\x64\Debug\ProjectManagement.exe
